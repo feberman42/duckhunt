@@ -8,3 +8,5 @@ Fix the flag, grab the duck from underneath the keyboard of the taget workstatio
 - If the duck is gone, another team was faster.
 - Only fix what is necessary
 - Have Fun!
+
+Usage: `./duckhunt flag_path`
