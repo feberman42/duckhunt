@@ -6,11 +6,11 @@
 /*   By: feberman <feberman@student.42berlin.de>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/11/14 12:18:42 by feberman          #+#    #+#             */
-/*   Updated: 2026/04/26 13:30:58 by feberman         ###   ########.fr       */
+/*   Updated: 2026/04/26 13:30:10 by feberman         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include<stdio.h>
+#include <stdio.h>
 #include <string.h>
 
 int main(void)
